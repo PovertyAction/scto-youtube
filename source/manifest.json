@@ -1,0 +1,6 @@
+{
+	"name" : "Youtube",
+	"author" : "Mehrab Ali",
+	"version": "1.0.0",
+	"supportedFieldTypes": ["text"]
+}

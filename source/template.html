@@ -1,0 +1,22 @@
+<div class="label default-question-text-size">{{{LABEL}}}</div>
+
+<!-- If there is an image specified in the media:image column, show it here -->
+{{#MEDIAIMAGE}}
+<img src="{{MEDIAIMAGE}}" />
+{{/MEDIAIMAGE}}
+
+<!-- If there is audio specified in the media:audio column, show it here -->
+{{#MEDIAAUDIO}}
+<audio controls>
+  <source src="{{MEDIAAUDIO}}">
+  Your browser does not support the audio element.
+</audio>
+{{/MEDIAAUDIO}}
+
+
+<div class="container"
+   style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+   <div id="youtube"></div>
+     
+</div>
+
