@@ -12,7 +12,8 @@ Use this field plug-in to easily embed YouTube videos into your form.
 
 For this field plug-in, enter the link to the YouTube video for the `link` parameter (see **Parameters** below), and that YouTube video will be embedded into the field. It can be watched directly from there, with no need to open another application. Since the field does not take a value, make sure it is not *required*.
 
-Note: The YouTube video will not be cached, so it can only be watched while the collection device is online.
+Note 1: The YouTube video will not be cached, so it can only be watched while the collection device is online.
+Note 2: This plug-in does not work with ![unlisted videos](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en) 
 
 [![Download now](extras/preview-images/download-button.png)](https://github.com/PovertyAction/scto-youtube/raw/master/youtube.fieldplugin.zip)
 
